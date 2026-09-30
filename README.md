@@ -11,7 +11,8 @@
 映画、アニメ、漫画、小説、ゲーム、バイクなど
 
 ## 📦 作ったもの
-- なし
+- https://myshelfie-shindan.vercel.app
+上記の作品共有アプリの試作段階として性格診断サイトを作成(2026-09-30)
 
 ## 🧰 使っている技術
 C# / Unity / TypeScript / React Native / Expo / Java / AndroidStudio
