@@ -4,13 +4,15 @@
 
 ## 🛠 今やっていること
 - **C# / Unity** で3Dゲーム制作を勉強中（unityroomで公開予定）
-- **Expo（React Native）** で、見た映画・アニメ・漫画・小説を記録して友だちと共有できるアプリ「matine.」を開発中
+- **Expo（React Native）** で、見た映画・アニメ・漫画・小説を記録して友だちと共有できるアプリを開発中
+- **Android Studio** で、大学生向けの時間割管理アプリを開発、試験中
 
 ## 🎬 好きなもの
-映画、アニメ、漫画、小説。「人生を変えた作品」を語るのが好きです。
+映画、アニメ、漫画、小説、ゲーム、バイクなど
 
 ## 📦 作ったもの
-- （ここに作品を追加していきます）
+- なし
 
 ## 🧰 使っている技術
-C# / Unity / TypeScript / React Native / Expo
+C# / Unity / TypeScript / React Native / Expo / Java / AndroidStudio
+ 
